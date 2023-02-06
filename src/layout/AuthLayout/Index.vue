@@ -9,7 +9,7 @@ onMounted(() => {
     "bgi-no-repeat"
   );
   document.body.style.backgroundImage =
-    "url('../../../public/media/img/bg6-dark.jpg')";
+    "url('media/img/bg6-dark.jpg')";
 });
 
 onUnmounted(() => {
