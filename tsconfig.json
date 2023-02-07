@@ -5,6 +5,7 @@
     "baseUrl": ".",
     "importsNotUsedAsValues": "remove",
     "preserveValueImports": false,
+    "noImplicitAny": false,
     "paths": {
       "@/*": ["./src/*"]
     }
